@@ -1,0 +1,4 @@
+distance_category,COUNT(user_id)
+Low,33
+High,7
+Medium,25

@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+user_id,int,YES,,NULL,
+first_name,text,YES,,NULL,
+last_name,text,YES,,NULL,
+email,text,YES,,NULL,
+signup_date,text,YES,,NULL,
+origin_city,text,YES,,NULL,

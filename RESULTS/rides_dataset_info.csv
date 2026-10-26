@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+ride_id,int,YES,,NULL,
+user_id,int,YES,,NULL,
+start_time,text,YES,,NULL,
+end_time,text,YES,,NULL,
+start_location,text,YES,,NULL,
+end_location,text,YES,,NULL,
+distance_km,double,YES,,NULL,
+vehicle_type,text,YES,,NULL,
+captain_rating,double,YES,,NULL,
